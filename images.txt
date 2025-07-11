@@ -6,4 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # vastdata/vastbase-vector
-semitechnologies/weaviate:1.19.0
+postgres:15-alpine
