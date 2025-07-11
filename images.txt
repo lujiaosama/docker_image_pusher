@@ -6,4 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # vastdata/vastbase-vector
-postgres:15-alpine
+langgenius/dify-plugin-daemon:0.1.3-local
