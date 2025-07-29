@@ -5,5 +5,5 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-# vastdata/vastbase-vector
-plugins/docker
+
+ghcr.io/appleboy/drone-ssh
