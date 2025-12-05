@@ -5,7 +5,8 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-vastdata/vastbase-vector
+# vastdata/vastbase-vector
+
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
 container-registry.oracle.com/database/free:latest
